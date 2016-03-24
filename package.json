@@ -1,0 +1,19 @@
+{
+  "name": "objectron",
+  "version": "0.0.1",
+  "description": "Objectron service - all about objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "objects",
+    "string",
+    "array",
+    "operations",
+    "javascript",
+    "library"
+  ],
+  "author": "Malik Nurmatov <mnurmatov@gmail.com> (https://github.com/maliknurmatov)",
+  "license": "BSD-2-Clause"
+}
